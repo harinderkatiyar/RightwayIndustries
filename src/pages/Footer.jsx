@@ -2,6 +2,7 @@ import React, { Component } from 'react';
 
 
 class Footer extends Component {
+
     render () { 
         return <> 
          <footer className="bg-footer" id="footer">
@@ -57,7 +58,7 @@ class Footer extends Component {
         </div>
       </div>
     </div>
-    <a className="to-top" href="#myPage" title="toTop">
+    <a className="to-top" href="#home" title="Back to top">
       <i className="fa fa-chevron-up" />
     </a>
   </footer>

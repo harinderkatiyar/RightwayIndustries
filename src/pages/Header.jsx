@@ -64,16 +64,14 @@ class Header extends Component {
     <div className="container-fluid">
       <div className="row">
         <div className="col-md-7 ">
-        <h1 className="title-main wow fadeInLeft" data-wow-duration="1.5s">Welcome to <p>Rigthway Industries</p></h1>
-          <h3 className="subtitle-main wow fadeInUp" data-wow-duration="1.1s">We are a leading Manufacturer Trader and Supplier of qualitative assortment of Three Wheeler Forks Center Pins Three Wheeler Torsion Rod etc. The offered product range is designed and manufactured as per the defined quality standard.</h3>
+        <h1 className="title-main wow fadeInLeft" style={{marginTop:"-5%"}} data-wow-duration="1.5s">Welcome to <p>Rigthway Industries</p></h1>
+          <h3 className="subtitle-main wow fadeInUp" style={{marginTop:"-2%"}} data-wow-duration="1.1s">We are a leading Manufacturer Trader and Supplier of qualitative assortment of Three Wheeler Forks Center Pins Three Wheeler Torsion Rod etc. The offered product range is designed and manufactured as per the defined quality standard.</h3>
 						<div className="top-btn-block wow fadeInUp" data-wow-duration="2.5s">
-          <a href="#contact" className="tcvpb_background_center">
+          <a href="#contact" className="tcvpb_background_center" style={{marginTop:"2%"}}>
           <button type="button" className="btn btn-outline-info">Contact Us</button>
             
           </a>
-          {/* <a href="/rg-test" className="btn-account ">
-            Create Account
-          </a> */}
+         
         </div>
       </div>
     </div>
