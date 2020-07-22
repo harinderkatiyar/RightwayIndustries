@@ -8,7 +8,7 @@ import ContactUs from '../src/pages/ContactUs';
 import Map from '../src/pages/Map';
 import Overview from '../src/pages/Overview';
 import OurTeam from '../src/pages/OurTeam';
-import Gallery from '../src/pages/Gallery';
+
 import Services from '../src/pages/Services';
 class App extends Component {
  componentDidMount () {
@@ -23,17 +23,13 @@ class App extends Component {
         $("nav.navbar").removeClass("mybg-dark");
         $("nav.navbar").removeClass("navbar-shrink");
     }
-    
 });
-
-
 }
  render () { 
    return <div><Header/>
    <main>
    <Overview/>
 <Services/>
-<Gallery/>
 <OurTeam/>
 <ContactUs/>
 <Map/>
