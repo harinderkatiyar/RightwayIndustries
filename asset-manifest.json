@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/RightwayIndustries/static/css/main.368ef8b5.chunk.css",
-    "main.js": "/RightwayIndustries/static/js/main.2d3bd0bc.chunk.js",
-    "main.js.map": "/RightwayIndustries/static/js/main.2d3bd0bc.chunk.js.map",
+    "main.css": "/RightwayIndustries/static/css/main.ce26ddf8.chunk.css",
+    "main.js": "/RightwayIndustries/static/js/main.5c2fa81e.chunk.js",
+    "main.js.map": "/RightwayIndustries/static/js/main.5c2fa81e.chunk.js.map",
     "runtime-main.js": "/RightwayIndustries/static/js/runtime-main.8e4e6fc9.js",
     "runtime-main.js.map": "/RightwayIndustries/static/js/runtime-main.8e4e6fc9.js.map",
     "static/css/2.af3c1da9.chunk.css": "/RightwayIndustries/static/css/2.af3c1da9.chunk.css",
-    "static/js/2.19383d25.chunk.js": "/RightwayIndustries/static/js/2.19383d25.chunk.js",
-    "static/js/2.19383d25.chunk.js.map": "/RightwayIndustries/static/js/2.19383d25.chunk.js.map",
+    "static/js/2.7ef464a4.chunk.js": "/RightwayIndustries/static/js/2.7ef464a4.chunk.js",
+    "static/js/2.7ef464a4.chunk.js.map": "/RightwayIndustries/static/js/2.7ef464a4.chunk.js.map",
     "index.html": "/RightwayIndustries/index.html",
-    "precache-manifest.bf25cc25e7eef15fc5f6ca6c5ade3ff7.js": "/RightwayIndustries/precache-manifest.bf25cc25e7eef15fc5f6ca6c5ade3ff7.js",
+    "precache-manifest.fcc9717874d8c613be6a1971eb912c18.js": "/RightwayIndustries/precache-manifest.fcc9717874d8c613be6a1971eb912c18.js",
     "service-worker.js": "/RightwayIndustries/service-worker.js",
     "static/css/2.af3c1da9.chunk.css.map": "/RightwayIndustries/static/css/2.af3c1da9.chunk.css.map",
-    "static/css/main.368ef8b5.chunk.css.map": "/RightwayIndustries/static/css/main.368ef8b5.chunk.css.map",
-    "static/js/2.19383d25.chunk.js.LICENSE.txt": "/RightwayIndustries/static/js/2.19383d25.chunk.js.LICENSE.txt",
+    "static/css/main.ce26ddf8.chunk.css.map": "/RightwayIndustries/static/css/main.ce26ddf8.chunk.css.map",
+    "static/js/2.7ef464a4.chunk.js.LICENSE.txt": "/RightwayIndustries/static/js/2.7ef464a4.chunk.js.LICENSE.txt",
     "static/media/img11.jpg": "/RightwayIndustries/static/media/img11.9ea28707.jpg",
     "static/media/img13.jpg": "/RightwayIndustries/static/media/img13.f696ef32.jpg",
     "static/media/img14.jpg": "/RightwayIndustries/static/media/img14.2c8139e2.jpg",
@@ -28,8 +28,8 @@
   "entrypoints": [
     "static/js/runtime-main.8e4e6fc9.js",
     "static/css/2.af3c1da9.chunk.css",
-    "static/js/2.19383d25.chunk.js",
-    "static/css/main.368ef8b5.chunk.css",
-    "static/js/main.2d3bd0bc.chunk.js"
+    "static/js/2.7ef464a4.chunk.js",
+    "static/css/main.ce26ddf8.chunk.css",
+    "static/js/main.5c2fa81e.chunk.js"
   ]
 }
