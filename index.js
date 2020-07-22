@@ -14,13 +14,13 @@ app.post('/api/form',(req,res)=>{
         port: 587,
         secure: false,
         auth: {
-          user: 'honeyverma1806@gmail.com',
-          pass: 'honey1806'      }
+          user: 'df1806@gmail.com',
+          pass: 'fdf'      }
         });
         
         const mailOptions = {
-          from: 'honeyverma1806@gmail.com',
-          to: 'honeyverma1806@gmail.com',
+          from: 'fdf@gmail.com',
+          to: 'fdf@gmail.com',
         subject: 'Rigthway Industries | Contact Us',
         html: `<head>
 		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
