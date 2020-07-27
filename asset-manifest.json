@@ -1,35 +1,33 @@
 {
   "files": {
-    "main.css": "/RightwayIndustries/static/css/main.ce26ddf8.chunk.css",
-    "main.js": "/RightwayIndustries/static/js/main.5c2fa81e.chunk.js",
-    "main.js.map": "/RightwayIndustries/static/js/main.5c2fa81e.chunk.js.map",
+    "main.css": "/RightwayIndustries/static/css/main.315db8f1.chunk.css",
+    "main.js": "/RightwayIndustries/static/js/main.089ded1b.chunk.js",
+    "main.js.map": "/RightwayIndustries/static/js/main.089ded1b.chunk.js.map",
     "runtime-main.js": "/RightwayIndustries/static/js/runtime-main.8e4e6fc9.js",
     "runtime-main.js.map": "/RightwayIndustries/static/js/runtime-main.8e4e6fc9.js.map",
     "static/css/2.af3c1da9.chunk.css": "/RightwayIndustries/static/css/2.af3c1da9.chunk.css",
-    "static/js/2.7ef464a4.chunk.js": "/RightwayIndustries/static/js/2.7ef464a4.chunk.js",
-    "static/js/2.7ef464a4.chunk.js.map": "/RightwayIndustries/static/js/2.7ef464a4.chunk.js.map",
+    "static/js/2.b11297ac.chunk.js": "/RightwayIndustries/static/js/2.b11297ac.chunk.js",
+    "static/js/2.b11297ac.chunk.js.map": "/RightwayIndustries/static/js/2.b11297ac.chunk.js.map",
     "index.html": "/RightwayIndustries/index.html",
-    "precache-manifest.fcc9717874d8c613be6a1971eb912c18.js": "/RightwayIndustries/precache-manifest.fcc9717874d8c613be6a1971eb912c18.js",
+    "precache-manifest.39a2001dc279077437296656f4de1b8c.js": "/RightwayIndustries/precache-manifest.39a2001dc279077437296656f4de1b8c.js",
     "service-worker.js": "/RightwayIndustries/service-worker.js",
     "static/css/2.af3c1da9.chunk.css.map": "/RightwayIndustries/static/css/2.af3c1da9.chunk.css.map",
-    "static/css/main.ce26ddf8.chunk.css.map": "/RightwayIndustries/static/css/main.ce26ddf8.chunk.css.map",
-    "static/js/2.7ef464a4.chunk.js.LICENSE.txt": "/RightwayIndustries/static/js/2.7ef464a4.chunk.js.LICENSE.txt",
+    "static/css/main.315db8f1.chunk.css.map": "/RightwayIndustries/static/css/main.315db8f1.chunk.css.map",
+    "static/js/2.b11297ac.chunk.js.LICENSE.txt": "/RightwayIndustries/static/js/2.b11297ac.chunk.js.LICENSE.txt",
+    "static/media/fontAwsome4.css": "/RightwayIndustries/static/media/fontawesome-webfont.fee66e71.woff",
     "static/media/img11.jpg": "/RightwayIndustries/static/media/img11.9ea28707.jpg",
     "static/media/img13.jpg": "/RightwayIndustries/static/media/img13.f696ef32.jpg",
     "static/media/img14.jpg": "/RightwayIndustries/static/media/img14.2c8139e2.jpg",
     "static/media/img4.jpg": "/RightwayIndustries/static/media/img4.80348ce6.jpg",
-    "static/media/img5.jpg": "/RightwayIndustries/static/media/img5.101f6f0a.jpg",
     "static/media/img6.jpg": "/RightwayIndustries/static/media/img6.6a1fa67d.jpg",
-    "static/media/img7.jpg": "/RightwayIndustries/static/media/img7.d4a1660b.jpg",
-    "static/media/img8.jpg": "/RightwayIndustries/static/media/img8.6b9132a3.jpg",
     "static/media/img9.jpg": "/RightwayIndustries/static/media/img9.5c0f980e.jpg",
     "static/media/v5.mp4": "/RightwayIndustries/static/media/v5.6b7ab485.mp4"
   },
   "entrypoints": [
     "static/js/runtime-main.8e4e6fc9.js",
     "static/css/2.af3c1da9.chunk.css",
-    "static/js/2.7ef464a4.chunk.js",
-    "static/css/main.ce26ddf8.chunk.css",
-    "static/js/main.5c2fa81e.chunk.js"
+    "static/js/2.b11297ac.chunk.js",
+    "static/css/main.315db8f1.chunk.css",
+    "static/js/main.089ded1b.chunk.js"
   ]
 }
