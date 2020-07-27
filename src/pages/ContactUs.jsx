@@ -80,7 +80,15 @@ return <>
                   </div>
                </div>
                <div className="col-md-6 col-sm-6 contact-right">
-                  <form
+               <div className="carrier"> <div className="wrap">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=email@domain.com" title="Click Here" rel="noopener">
+    <div className="circle">
+      <div className="envelope-top"></div>
+      <div className="envelope"></div>
+    </div>
+  </a>
+</div></div>
+                  {/* <form
                      onSubmit={this.handleSubmit}
                    //  action="mailto:test@gmmmail.com"
                     // name="frm"
@@ -145,7 +153,7 @@ return <>
                               />
                         </div>
                      </div>
-                  </form>
+                  </form> */}
                </div>
             </div>
          </div>

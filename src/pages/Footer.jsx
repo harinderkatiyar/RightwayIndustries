@@ -1,8 +1,8 @@
 import React, { Component } from 'react';
 
-
 class Footer extends Component {
 
+ 
     render () { 
         return <> 
          <footer className="bg-footer" id="footer">
@@ -19,7 +19,10 @@ class Footer extends Component {
               <a href="/" className="instagram">
                 <i className="fa fa-instagram" />
               </a>
-              <a href="/" className="facebook">
+              <a className="backtowhatsapp active" href="https://wa.me/917888429218" rel="noopener" >
+                <i className="fa fa-whatsapp"></i></a>          
+                
+                     <a href="/" className="facebook">
                 <i className="fa fa-facebook" />
               </a>
             </ul>
@@ -58,14 +61,15 @@ class Footer extends Component {
         </div>
       </div>
     </div>
-    <a className="to-top" href="#home" title="Back to top">
-      <i className="fa fa-chevron-up" />
+    <a className="to-top" style={{display:'inline'}} href="#home" title="Back to top">
+      <i className="fa fa-chevron-up" ></i>TOP
     </a>
   </footer>
+  
   <div className="footer-copyright">
-    <p>
-      © 2020 Copyright by{" "}
-      <a href="/">Rigthway Industries</a>
+    <p style={{color:'white'}}>
+      © 2020 Copyright by 
+      <a style={{color:'inherit'}} className="underline" href="/"> Rigthway Industries</a>
     </p>
   </div>
         </>

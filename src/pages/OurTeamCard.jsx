@@ -20,7 +20,7 @@ class OurTeamCard extends Component {
     <a href="/rg-test">{this.props.teamName}</a>
             </h3>
             <p>Lorem ipsum dolor sit amet consectetur adipiscing elit.</p>
-            <ul className="follow-us clearfix">
+            {/* <ul className="follow-us clearfix">
               <li>
                 <a href="/rg-test" className="btn btn-circle my-social-btn fb">
                   <i className="fa fa-facebook " />
@@ -37,7 +37,7 @@ class OurTeamCard extends Component {
                   <i className="fa fa-linkedin " />
                 </a>
               </li>
-            </ul>
+            </ul> */}
           </div>
         </li>
         </>

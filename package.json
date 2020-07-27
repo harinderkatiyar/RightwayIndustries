@@ -24,7 +24,7 @@
     "concurrently": "^5.2.0"
   },
   "scripts": {
-    "start": "concurrently \"npm run server\" \"react-scripts start\"",
+    "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "server": "nodemon index.js",

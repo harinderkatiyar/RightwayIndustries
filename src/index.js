@@ -5,22 +5,9 @@ import App from './App';
 import * as serviceWorker from './serviceWorker';
 import'bootstrap/dist/css/bootstrap.min.css';
 import './App.css';
-// import express from 'express';
-// import bodyParser from 'body-parser';
+import './libs/css/fontAwsome4.css'
+import './libs/css/animate.css'
 
-// var cors = require('cors')
-// var app = express()
-
-
-// app.use(bodyParser.json());
-// app.use(bodyParser.urlencoded({extended:true}));
- 
-// app.use(cors())
-
-// app.get('/',(req, res, next)=>{
-// console.log("hello");
-//   res.send("welcome to my forma")
-// })
 ReactDOM.render(
   <React.StrictMode>
     <App />
@@ -28,7 +15,4 @@ ReactDOM.render(
   document.getElementById('root')
 );
 
-// If you want your app to work offline and load faster, you can change
-// unregister() to register() below. Note this comes with some pitfalls.
-// Learn more about service workers: https://bit.ly/CRA-PWA
 serviceWorker.unregister();
