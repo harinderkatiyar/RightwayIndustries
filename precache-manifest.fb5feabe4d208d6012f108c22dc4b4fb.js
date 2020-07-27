@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "50536b58ede53da0599fec870b8c2eb5",
+    "revision": "693546bff4050b079295ca9ce734e3f7",
     "url": "/RightwayIndustries/index.html"
   },
   {
-    "revision": "3ec7b7ef195133712288",
+    "revision": "7b0a9fe46eb829912fa3",
     "url": "/RightwayIndustries/static/css/2.af3c1da9.chunk.css"
   },
   {
-    "revision": "ed06177285219343218e",
-    "url": "/RightwayIndustries/static/css/main.315db8f1.chunk.css"
+    "revision": "3615855d596eca6bdd18",
+    "url": "/RightwayIndustries/static/css/main.5cd535d7.chunk.css"
   },
   {
-    "revision": "3ec7b7ef195133712288",
-    "url": "/RightwayIndustries/static/js/2.b11297ac.chunk.js"
+    "revision": "7b0a9fe46eb829912fa3",
+    "url": "/RightwayIndustries/static/js/2.4f0a8547.chunk.js"
   },
   {
     "revision": "f4aac9c965aa45c554c7c1d1e3f69ce3",
-    "url": "/RightwayIndustries/static/js/2.b11297ac.chunk.js.LICENSE.txt"
+    "url": "/RightwayIndustries/static/js/2.4f0a8547.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ed06177285219343218e",
-    "url": "/RightwayIndustries/static/js/main.089ded1b.chunk.js"
+    "revision": "3615855d596eca6bdd18",
+    "url": "/RightwayIndustries/static/js/main.3c2e2ac8.chunk.js"
   },
   {
     "revision": "1001285e1ff3dc5e8954",
@@ -70,6 +70,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "5c0f980ead3dff5fb15d6c80f439ad5d",
     "url": "/RightwayIndustries/static/media/img9.5c0f980e.jpg"
+  },
+  {
+    "revision": "068c83e611f2fd5055602126598f842b",
+    "url": "/RightwayIndustries/static/media/mainLo.068c83e6.png"
   },
   {
     "revision": "6b7ab485bb0048ffa7efa1b3ad5aa75b",
