@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import BackVideo from '../images/v5.mp4'
-
+import Logo from '../images/mainLo.png'
 class Header extends Component {
     render () { 
         return <> 
@@ -9,12 +9,11 @@ class Header extends Component {
      <video id="background-video" className="backVideo-mobile" loop autoPlay muted>
   <source src={BackVideo} type="video/mp4"/>
 </video>
-       {/* <img src={Web} alt={Web} width="1500px" height="100%"></img> */}
      </div>
      <nav className="navbar fixed-top navbar-expand-lg navbar-dark">
        <div className="container-fluid">
-         <a className="navbar-brand" href="/rg-test">
-           <h3 className="my-heading "> Rigthway Industries</h3>
+         <a className="navbar-brand" href="/">
+        <img src={Logo} className="imgLogo" alt="imgLogo"/> 
          </a>
          <button
            className="navbar-toggler navbar-toggler-right"
