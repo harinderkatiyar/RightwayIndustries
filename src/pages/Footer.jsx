@@ -19,7 +19,7 @@ class Footer extends Component {
               <a href="/" className="instagram">
                 <i className="fa fa-instagram" />
               </a>
-              <a className="backtowhatsapp active" href="https://wa.me/917888429218" rel="noopener" >
+              <a className="backtowhatsapp active" target="_blank" href="https://wa.me/917888429218" rel="noopener noreferrer" >
                 <i className="fa fa-whatsapp"></i></a>          
                 
                      <a href="/" className="facebook">

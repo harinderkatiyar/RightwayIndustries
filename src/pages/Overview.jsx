@@ -16,8 +16,6 @@ class Overview extends Component {
     <Gallery/>
     </div>
   </div>
-
-    
     </div>
   </section>
 

@@ -1,51 +1,50 @@
 import React, { Component } from 'react';
-import axios from 'axios'
 class ContactUs extends Component {
-  constructor(props){
-    super(props)
-    this.state={
-      fullName:'null',
-      phone:'null',
-      email:'null',
-      message:'null',
+//   constructor(props){
+//     super(props)
+//     this.state={
+//       fullName:'null',
+//       phone:'null',
+//       email:'null',
+//       message:'null',
          
-    }
-  }
-  handleSubmit =(event) =>{
-    event.preventDefault();
-    const data = this.state
-    console.log("final data is ",data);
+//     }
+//   }
+//   handleSubmit =(event) =>{
+//     event.preventDefault();
+//     const data = this.state
+//     console.log("final data is ",data);
 
-    axios.post('/api/form',data).then(res=>{
-      this.setState({
-        sent:true
-      },this.resetForm())
-    }).catch((e)=>{
-      console.log(`Message is not sent${e}`);
-    })
-  }
-  resetForm=()=>{
-    this.state({
-      fullName:'',
-      phone:'',
-      email:'',
-      message:''   
-    })
-    setTimeout(()=>{this.setState({
-      sent:false
-    })
-  },3000)
-}
+//     axios.post('/api/form',data).then(res=>{
+//       this.setState({
+//         sent:true
+//       },this.resetForm())
+//     }).catch((e)=>{
+//       console.log(`Message is not sent${e}`);
+//     })
+//   }
+//   resetForm=()=>{
+//     this.state({
+//       fullName:'',
+//       phone:'',
+//       email:'',
+//       message:''   
+//     })
+//     setTimeout(()=>{this.setState({
+//       sent:false
+//     })
+//   },3000)
+// }
 
-handleInputChange=(event)=>{
-event.preventDefault();
-console.log(event);
-console.log(event.target.name);
-console.log(event.target.value);
-this.setState({
-  [event.target.name]:event.target.value
-})
-  }
+// handleInputChange=(event)=>{
+// event.preventDefault();
+// console.log(event);
+// console.log(event.target.name);
+// console.log(event.target.value);
+// this.setState({
+//   [event.target.name]:event.target.value
+// })
+//   }
 render () { 
 //  const {fullname} = this.state
 return <>

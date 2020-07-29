@@ -7,8 +7,7 @@ class Gallery extends Component {
    <div className="float-sm">
   <div className="fl-fl float-pn">
     <i className="fa fa-facebook fa-2x" />
-    <a href="/"   >
-      {" "}
+    <a href="/" >
       Like us!
     </a>
   </div>
