@@ -66,7 +66,7 @@ return <>
                         <br />
                         <span className="span-contact">Email:</span>
                         <br />
-                        <a style= {{color:"white"}}href="mailto:rigthway_test@gmail.com">rigthway_test@gmail.com</a>
+                        <a style= {{color:"white"}}href="mailto:rigthwayindustires@gmail.com">rigthwayindustires@gmail.com</a>
                         
                         <br />
                         <span className="span-contact">Visit:</span>

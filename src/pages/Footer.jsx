@@ -44,7 +44,7 @@ class Footer extends Component {
               <i className="fa fa-fax address" /> +876 5432 1234
               <br />
               <i className="fa fa-envelope address" />{" "}
-              <a style= {{color:"white"}}href="mailto:northstreet@gmail.com">rigthway_test@gmail.com</a>
+              <a style= {{color:"white"}}href="mailto:northstreet@gmail.com">rigthwayindustires@gmail.com</a>
             </address>
           </div>
         </div>
