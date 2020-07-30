@@ -61,8 +61,8 @@ return <>
                   <div className="left-box">
                      <address className="contact">
                         <span className="span-contact">Call:</span>
-                        <br />
-                        +091 1234 5678
+                        <br /> 
+                        <a style= {{color:"white"}}href="tel: +091 1234 5678"> +091 1234 5678</a>
                         <br />
                         <span className="span-contact">Email:</span>
                         <br />

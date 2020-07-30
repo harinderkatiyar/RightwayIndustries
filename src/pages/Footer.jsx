@@ -39,9 +39,9 @@ class Footer extends Component {
               <br />
               Ludhiana, Punjab 141010
               <br />
-              <i className="fa fa-phone address" /> +091 1234 5678
+              <i className="fa fa-phone address" />  <a style= {{color:"white"}}href="tel: +091 1234 5678"> +091 1234 5678</a>
               <br />
-              <i className="fa fa-fax address" /> +876 5432 1234
+              <i className="fa fa-fax address" />           <a style= {{color:"white"}}href="tel:+876 5432 1234"> +876 5432 1234</a>
               <br />
               <i className="fa fa-envelope address" />{" "}
               <a style= {{color:"white"}}href="mailto:northstreet@gmail.com">rigthwayindustires@gmail.com</a>
