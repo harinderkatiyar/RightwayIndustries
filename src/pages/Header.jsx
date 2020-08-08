@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import BackVideo from '../images/v5.mp4'
-import Logo from '../images/mainLo.png'
+import Logo from '../images/mainlogo.svg'
 class Header extends Component {
   componentDidMount () {
     document.getElementById('background-video').play();
